@@ -1,1 +1,1 @@
-import {similarDescription} from './data';
+import './pictures';
